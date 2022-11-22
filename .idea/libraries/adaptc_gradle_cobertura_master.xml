@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="adaptc.gradle.cobertura.master" type="repository">
+    <properties maven-id="com.adaptc.gradle:cobertura-master:0.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adaptc/gradle/cobertura-master/0.3/cobertura-master-0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/eriwen/gradle-cobertura-plugin/1.1.1/gradle-cobertura-plugin-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
